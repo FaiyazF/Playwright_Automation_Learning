@@ -17,7 +17,6 @@ const doubleNumber = (number) => number*2.0
 console.log("Double value "+ doubleNumber(2.4)+"\n");
 
 
-
 //Task 3: Anonymous Function
 //Use an anonymous function with `setTimeout` to log `"This message is delayed by 2 seconds"`
 //  after 2 seconds.
